@@ -96,7 +96,7 @@ Located in `/evaluation/`:
 - `evaluate_pipeline.py` → generates `evaluation_results.json`
 
 ## 📁 Project Structure
-
+```bash
 ai-powered-financial-news-intelligence-system-using-langgraph/
 │
 ├── api/
@@ -197,7 +197,7 @@ ai-powered-financial-news-intelligence-system-using-langgraph/
 ├── requirements.txt
 ├── news.db
 └── README.md
-
+```
 
 ## ⚙️ Installation & Setup
 
