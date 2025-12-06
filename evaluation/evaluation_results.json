@@ -1,0 +1,180 @@
+{
+  "ner": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "details": [
+      {
+        "text": "HDFC Bank Q3 profit rises on higher NII",
+        "gold": [
+          "HDFC Bank"
+        ],
+        "pred": [
+          "HDFC Bank"
+        ],
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      {
+        "text": "RBI hikes repo rate by 25 bps",
+        "gold": [
+          "RBI"
+        ],
+        "pred": [
+          "RBI"
+        ],
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      {
+        "text": "ICICI Securities upgrades HDFC Bank to BUY",
+        "gold": [
+          "ICICI Securities",
+          "HDFC Bank"
+        ],
+        "pred": [
+          "HDFC Bank",
+          "ICICI Securities"
+        ],
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      {
+        "text": "Tata Motors announces JV with Suzuki",
+        "gold": [
+          "Tata Motors",
+          "Suzuki"
+        ],
+        "pred": [
+          "Tata Motors",
+          "Suzuki"
+        ],
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      {
+        "text": "Mumbai Police arrests cybercriminal",
+        "gold": [
+          "Mumbai Police"
+        ],
+        "pred": [
+          "Mumbai Police"
+        ],
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    ]
+  },
+  "dedupe": {
+    "accuracy": 0.4,
+    "TP": 0,
+    "FP": 0,
+    "FN": 3,
+    "TN": 2,
+    "details": [
+      {
+        "a": "Company X reports 10% growth",
+        "b": "Company X reports ten percent growth",
+        "gold": 1,
+        "pred": 0
+      },
+      {
+        "a": "RBI policy review tomorrow",
+        "b": "Earnings: Infosys Q2 results",
+        "gold": 0,
+        "pred": 0
+      },
+      {
+        "a": "HDFC Bank appoints new CFO",
+        "b": "HDFC Bank appoints new chief financial officer",
+        "gold": 1,
+        "pred": 0
+      },
+      {
+        "a": "Corona Remedies files RHP",
+        "b": "Corona Remedies IPO opens next week",
+        "gold": 1,
+        "pred": 0
+      },
+      {
+        "a": "Global markets brace for central bank signals",
+        "b": "Local sports team wins match",
+        "gold": 0,
+        "pred": 0
+      }
+    ]
+  },
+  "impact": {
+    "accuracy": 0.75,
+    "details": [
+      {
+        "entity": "HDFC Bank",
+        "expected": "HDFCBANK",
+        "pred": "HDFCBANK",
+        "match": true
+      },
+      {
+        "entity": "ICICI Securities",
+        "expected": "ICICISECURITIES",
+        "pred": "ICICISECUR",
+        "match": false
+      },
+      {
+        "entity": "RBI",
+        "expected": "RBI",
+        "pred": "RBI",
+        "match": true
+      },
+      {
+        "entity": "Tata Motors",
+        "expected": "TATAMOTORS",
+        "pred": "TATAMOTORS",
+        "match": true
+      }
+    ]
+  },
+  "ranking": {
+    "hit1": 0.3333333333333333,
+    "hit3": 0.3333333333333333,
+    "details": [
+      {
+        "query": "Show me news affecting HDFC Bank",
+        "top1": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+        "top3": [
+          "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+          "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
+          "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
+        ],
+        "is_hit1": true,
+        "is_hit3": true
+      },
+      {
+        "query": "RBI MPC meeting rate cut",
+        "top1": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+        "top3": [
+          "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+          "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
+          "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
+        ],
+        "is_hit1": false,
+        "is_hit3": false
+      },
+      {
+        "query": "Corona Remedies IPO details",
+        "top1": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+        "top3": [
+          "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+          "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
+          "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial"
+        ],
+        "is_hit1": false,
+        "is_hit3": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+# Core AI stack
+langgraph
+sentence-transformers
+chromadb
+
+# API + Server
+fastapi
+uvicorn[standard]
+
+# Database + ORM
+sqlalchemy
+alembic
+psycopg2-binary   # lets use this if switch to PostgreSQL
+pandas
+
+# NLP + NER
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+# Utility Libraries
+feedparser
+beautifulsoup4
+rapidfuzz
+tqdm
+python-dotenv
+pydantic
+
+# Testing
+pytest
