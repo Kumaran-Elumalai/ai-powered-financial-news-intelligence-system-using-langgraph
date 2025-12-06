@@ -1,0 +1,4341 @@
+[
+  {
+    "id": 1,
+    "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+    "description": "ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850 in its research report dated April 21, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 13:41:02 +0530",
+    "entities": [
+      {
+        "entity": "Rs 1,850",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 1,850",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 21, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
+    "description": "Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100 in its research report dated April 23, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 13:36:47 +0530",
+    "entities": [
+      {
+        "entity": "Rs 1100",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Tejas Networks",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "April 23, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+    "description": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 13:36:44 +0530",
+    "entities": [
+      {
+        "entity": "Rs 9000",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 9000:",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bajaj Finance",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 9000",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 23, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+    "description": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 13:36:44 +0530",
+    "entities": [
+      {
+        "entity": "Rs 9000",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 9000:",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bajaj Finance",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 9000",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 23, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
+    "description": "Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700 in its research report dated April 22, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 13:26:31 +0530",
+    "entities": [
+      {
+        "entity": "Rs 3700",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Persistent Systems",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "April 22, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial",
+    "description": "Emkay Global Financial recommended reduce rating on Aditya Birla Fashion and Retail with a target price of Rs 230 in its research report dated April 23, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 13:22:33 +0530",
+    "entities": [
+      {
+        "entity": "Rs 230",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Aditya Birla Fashion and Retail",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 230:",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 230",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 23, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Reduce Wipro; target of Rs 410: ICICI Securities",
+    "description": "ICICI Securities is bullish on Wipro has recommended buy rating on the stock with a target price of Rs 410 in its research report dated April 21, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 12:22:08 +0530",
+    "entities": [
+      {
+        "entity": "Rs 410",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 410",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Wipro",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "April 21, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities",
+    "description": "ICICI Securities is bullish on HDFC Life Insurance Company has recommended buy rating on the stock with a target price of Rs 739 in its research report dated April 21, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 12:05:52 +0530",
+    "entities": [
+      {
+        "entity": "Rs 739",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "HDFC Life Insurance Company",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 739",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 21, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Buy Patel Engineering; target of Rs 80: ICICI Direct",
+    "description": "ICICI Direct is bullish on Patel Engineering recommended buy rating on the stock with a target price of Rs 80 in its research report dated April 22, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 12:05:43 +0530",
+    "entities": [
+      {
+        "entity": "Rs 80",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Patel Engineering",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 80",
+        "type": "LAW",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 22, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Accumulate Infosys; target of Rs 1531: KR Choksey",
+    "description": "KR Choksey recommended Accumulate rating on Infosys with a target price of Rs 1531 in its research report dated April 22, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 12:05:06 +0530",
+    "entities": [
+      {
+        "entity": "Rs 1531",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Infosys",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "April 22, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Buy Jindal Drilling and Industries; target of Rs 960: Anand Rathi",
+    "description": "Anand Rathi is bullish on Jindal Drilling and Industries has recommended buy rating on the stock with a target price of Rs 960 in its research report dated April 22, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-jindal-drillingindustries-targetrs-960-anand-rathi_17531431.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 12:04:28 +0530",
+    "entities": [
+      {
+        "entity": "Rs 960",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Jindal Drilling and Industries",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Anand Rathi <",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Anand Rathi",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Anand Rathi",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 960",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 22, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Buy Navneet Education; target of Rs 182: Prabhudas Lilladher",
+    "description": "Prabhudas Lilladher is bullish on Navneet Education has recommended buy rating on the stock with a target price of Rs 182 in its research report dated April 22, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-navneet-education-targetrs-182-prabhudas-lilladher_17531441.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 12:04:07 +0530",
+    "entities": [
+      {
+        "entity": "Rs 182",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Prabhudas Lilladher <",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Navneet Education",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Prabhudas Lilladher",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "title=\"Buy Navneet Education",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Navneet Education",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 182",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 22, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Sell Indus Tower; target of Rs 260: ICICI Securities",
+    "description": "ICICI Securities is bearish on Indus Tower has recommended sell rating on the stock with a target price of Rs 260 in its research report dated April 20, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/sell-indus-tower-targetrs-260-icici-securities_17531381.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 11:56:53 +0530",
+    "entities": [
+      {
+        "entity": "Rs 260",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Indus Tower",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indus Tower",
+        "type": "FAC",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 260",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 20, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Buy City Union Bank; target of Rs 170: ICICI Securities",
+    "description": "ICICI Securities is bullish on City Union Bank has recommended buy rating on the stock with a target price of Rs 170 in its research report dated April 21, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-city-union-bank-targetrs-170-icici-securities_17531361.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 11:46:51 +0530",
+    "entities": [
+      {
+        "entity": "Rs 170",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Rs 170:",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 170",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 21, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Buy Hatsun Agro Products; target of Rs 1190: ICICI Securities",
+    "description": "ICICI Securities is bullish on Hatsun Agro Products recommended buy rating on the stock with a target price of Rs 1190 in its research report dated April 23, 2024.",
+    "url": "https://www.moneycontrol.com/news/recommendations/buy-hatsun-agro-products-targetrs-1190-icici-securities_17531371.html",
+    "source": "www.moneycontrol.com",
+    "published": "Tue, 23 Apr 2024 11:46:43 +0530",
+    "entities": [
+      {
+        "entity": "Rs 1190",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Hatsun Agro Products",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "1190",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "Hatsun Agro Products",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "April 23, 2024",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "ICICI Prudential AMC's Rs 10,700 crore IPO to open next week",
+    "description": "ICICI Prudential AMC, India’s largest active asset manager, will launch its ₹10,700 crore IPO next week, fully via OFS. Valued around ₹1.07 lakh crore, the issue includes Prudential selling a 10% stake. With strong market share and profit growth, the AMC recently secured Sebi approval.",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/icici-prudential-amcs-rs-10700-crore-ipo-to-open-on-december-12/articleshow/125768612.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 19:40:41 +0530",
+    "entities": [
+      {
+        "entity": "Rs 10,700",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹10,700",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹1",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Prudential AMC's",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 10,700",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "next week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Prudential AMC",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "10,700",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "OFS",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "1.07",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Prudential",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "10%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "AMC",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "FPIs withdraw Rs 13,121 cr in just 4 days; outflow reaches Rs 1.56 lakh cr in 2025",
+    "description": "Foreign investors have pulled out Rs 13,121 crore (USD 1.46 billion) from Indian equities in the first four days of December, taking the total outflow for 2025 to Rs 1.56 lakh crore (USD 17.8 billion), data from NSDL showed on Thursday.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-13121-cr-in-just-4-days-outflow-reaches-rs-1-56-lakh-cr-in-2025/articleshow/125768155.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 19:07:56 +0530",
+    "entities": [
+      {
+        "entity": "Rs 13,121",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 1",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 13,121",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "just 4 days",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "2025",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "USD 1.46 billion",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "the first four days of",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "December",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 1.56",
+        "type": "LAW",
+        "source": "spacy"
+      },
+      {
+        "entity": "USD 17.8 billion",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "NSDL",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "British American Tobacco plans to offload up to 15.3% stake in ITC Hotels via block deal",
+    "description": "BAT announced that its wholly-owned subsidiaries, Tobacco Manufacturers (India) Limited, Myddleton Investment Company Limited and Rothmans International Enterprises Limited, intend to sell the issued ordinary share capital in ITC Hotels via block deals.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/british-american-tobacco-plans-to-offload-up-to-15-3-stake-in-itc-hotels-via-block-deal/articleshow/125768033.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 18:57:44 +0530",
+    "entities": [
+      {
+        "entity": "British American Tobacco",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "15.3%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "ITC Hotels",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Tobacco Manufacturers",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Myddleton Investment Company Limited",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rothmans International Enterprises Limited",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Gold outlook 2026 hinges on global uncertainty as WGC warns of sharp swings",
+    "description": "Gold’s 2026 trajectory will depend on geo-economic uncertainty, with prices likely rangebound unless growth slows or risks rise. Lower rates and a weaker dollar may lift gold, while strong US growth could push it lower. Central bank demand and diversification needs remain key drivers.",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/gold-outlook-2026-hinges-on-global-uncertainty-as-wgc-warns-of-sharp-swings/articleshow/125767639.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 18:26:53 +0530",
+    "entities": [
+      {
+        "entity": "2026",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "WGC",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Gold’s 2026",
+        "type": "LAW",
+        "source": "spacy"
+      },
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "India bonds slip on muddled policy bets; benchmark up on liquidity hopes",
+    "description": "Indian government bonds ended largely unchanged on Thursday as uncertainty over the fate of the key repo rate the following day discouraged traders, even as the benchmark bond rose, with traders hopeful of liquidity infusion from the central bank.",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-on-muddled-policy-bets-benchmark-up-on-liquidity-hopes/articleshow/125767154.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 18:01:03 +0530",
+    "entities": [
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Asian Paints, Vedanta and 3 other stocks hit 52-week highs; gains up to 18% in a month",
+    "description": "Five BSE500 stocks — including Asian Paints, Vedanta and Hero MotoCorp — hit fresh 52-week highs on Thursday, extending up to 18% gains over the past month amid strong market momentum.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-vedanta-and-3-other-stocks-hit-52-week-highs-gains-up-to-18-in-a-month/slideshow/125767117.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 17:50:44 +0530",
+    "entities": [
+      {
+        "entity": "Asian Paints",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Vedanta",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "3",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "52-week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "18%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "month Five BSE500",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Asian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Vedanta",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Hero MotoCorp",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "up to 18%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "the past month",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Gainers &amp; Losers: HindustanCopper, Indigo among 6 stocks that grabbed eyeballs on Thursday",
+    "description": "Six stocks — including Hindustan Copper, IndiGo, and Ola — stood out on Thursday as markets snapped a four-day rally, with sharp moves driven by corporate updates, rupee-led IT gains, and company-specific pressures.",
+    "url": "https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-hindustan-copper-indigo-and-ola-among-6-stocks-that-grabbed-eyeballs-on-thursday/slideshow/125766019.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 17:03:33 +0530",
+    "entities": [
+      {
+        "entity": "Gainers &",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Losers",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indigo",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "6",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Six",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Hindustan Copper",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Ola",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "four-day",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Rupee recovers from record low level, rises 19 paise to close at 89.96/USD",
+    "description": "The rupee rebounded from its all-time low levels and appreciated by 19 paise to close at 89.96 against the US dollar on Thursday, on softness in the US dollar index and on reports of the Reserve Bank of India's supposed intervention.",
+    "url": "https://economictimes.indiatimes.com/markets/forex/rupee-recovers-from-record-low-level-rises-19-paise-to-close-at-89-96/usd/articleshow/125765525.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 16:37:48 +0530",
+    "entities": [
+      {
+        "entity": "19",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "89.96",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Smartworks leases 1.68 lakh sq ft office space to a global IT services firm in Kolkata",
+    "description": "Realty firm Smartworks Coworking Spaces Ltd has provided on lease around 1.68 lakh sq ft office spaces in Kolkata to a global IT services firm.",
+    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/smartworks-leases-1-68-lakh-sq-ft-office-space-to-a-global-it-services-firm-in-kolkata/articleshow/125764979.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 16:12:20 +0530",
+    "entities": [
+      {
+        "entity": "Smartworks",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "1.68",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Kolkata Realty",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Smartworks Coworking Spaces Ltd",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Kolkata",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Market Wrap: Sensex adds 158 pts, Nifty above 26,000 as D-St snaps 4-day losing run",
+    "description": "Indian stocks snapped a four-day slide on Thursday, with the Sensex and Nifty closing higher, primarily driven by IT shares. This advance occurred ahead of the Reserve Bank of India's policy decision, with IT stocks benefiting from a softer rupee and expectations of a U.S. rate cut. Financials, however, acted as a drag on the broader market.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-adds-158-pts-nifty-above-26000-as-d-st-snaps-4-day-losing-run/articleshow/125764551.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 15:54:03 +0530",
+    "entities": [
+      {
+        "entity": "158",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Nifty",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "26,000",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "4-day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "four-day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "U.S.",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Indigo's problems on runway now extend to its charts. Should you buy, sell or hold?",
+    "description": "IndiGo shares slid further after major flight disruptions, with technical indicators signalling persistent weakness. Analysts advise avoiding or selling the stock as it trades below key levels, facing resistance near ₹5,700 and risks of deeper downside despite upcoming Sensex inclusion.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigos-problems-on-runway-now-extend-to-its-charts-should-you-buy-sell-or-hold/articleshow/125763968.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 15:25:58 +0530",
+    "entities": [
+      {
+        "entity": "₹5,700",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Indigo",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "5,700",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sensex",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Rupee at 90+: Why IT becomes a safe haven and where the real risks still hide",
+    "description": "Sowilo Investment Managers’ Sandip Agarwal says the recent IT stock rally driven by rupee depreciation is more of a temporary tailwind than a structural upswing. He expects limited earnings momentum for large IT firms but sees long-term opportunity in ER&D players, platform businesses, capital-market plays and select manufacturing names as mid- and small-cap earnings remain fundamentally stronger.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-at-90-why-it-becomes-a-safe-haven-and-where-the-real-risks-still-hide/articleshow/125763871.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 15:21:59 +0530",
+    "entities": [
+      {
+        "entity": "Sowilo Investment Managers’",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sandip Agarwal",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "ER&amp;D",
+        "type": "NORP",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Women's participation in crypto doubles YoY with Bitcoin, Ethereum, Dogecoin, Solana among top holdings: CoinDCX’s 2025 Annual Report",
+    "description": "CoinDCX reports a sharp rise in women investors, broader token diversification, and strong participation from Tier-2 and Tier-3 cities. Ethereum volumes surged across metros, signalling a shift toward research-led, long-term investing and deeper institutional adoption ahead of 2026.",
+    "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/women-participation-in-crypto-doubles-yoy-with-bitcoin-ethereum-dogecoin-solana-among-top-holdings-coindcxs-2025-annual-report/articleshow/125763355.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 14:57:02 +0530",
+    "entities": [
+      {
+        "entity": "YoY",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bitcoin, Ethereum",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Dogecoin",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Solana",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "2025",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "Tier-2",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Tier-3",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "2026",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Jio Platforms IPO: Reliance said to start work on draft prospectus for India’s biggest IPO",
+    "description": "Reliance Industries has begun drafting a prospectus for Jio Platforms' initial public offering, aiming to make it India's largest ever. The company is in preliminary talks with banks, with the formal process expected after new IPO rules are implemented. This move could see Jio raise billions, potentially valuing it at up to $170 billion.",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-is-said-to-start-work-on-draft-prospectus-for-jios-likely-record-ipo/articleshow/125763144.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 14:45:09 +0530",
+    "entities": [
+      {
+        "entity": "Jio Platforms",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Reliance",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO Reliance Industries",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Jio Platforms'",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Jio",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "billions",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "up to $170 billion",
+        "type": "MONEY",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Fed rate-cut uncertainty no threat to India; domestic cyclicals set to outperform: Anish Tawakley",
+    "description": "ICICI Prudential AMC’s Co-CIO (Equity), Anish Tawakley, says a Fed rate cut has limited economic impact on India and any negative market reaction would be a buying opportunity. He expects the rupee to stabilise, remains bullish on domestic cyclicals like autos, cement and capital goods, but stays cautious on smallcaps, midcaps, IPO listings and consumer-tech due to valuation risks.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/fed-rate-cut-uncertainty-no-threat-to-india-domestic-cyclicals-set-to-outperform-anish-tawakley/articleshow/125762952.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 14:33:06 +0530",
+    "entities": [
+      {
+        "entity": "Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Prudential AMC’s",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Co-CIO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Tawakley",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Nifty poised for 11% returns in CY26, says BofA, explains why FIIs may return next year",
+    "description": "BofA expects Nifty to deliver up to 11.4% returns by CY26 as earnings cuts ease, growth prospects improve and FII outflows may reverse. Largecaps are likely to outperform, while SMIDs offer selective opportunities but face sharper downside risks.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-poised-for-11-returns-in-cy26-says-bofa-explains-why-fiis-may-return-next-year/articleshow/125762903.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 14:26:06 +0530",
+    "entities": [
+      {
+        "entity": "11%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "BofA",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "next year",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Nifty",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "11.4%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "FII",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Smallcap Shock: 9 firms post strong earnings, but stocks crash up to 68% in just 2 months",
+    "description": "Despite robust margins, nine high-performing smallcap stocks have plunged 20%–68% since October, underscoring that strong earnings don’t always drive share prices.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-shock-9-firms-post-strong-earnings-but-stocks-crash-up-to-68-in-just-2-months/slideshow/125762734.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:58:51 +0530",
+    "entities": [
+      {
+        "entity": "9",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "68%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "just 2 months",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "nine",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "20%–68%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "October",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Bajaj Housing Finance shares slide 10% in 5 days. What’s spooking investors?",
+    "description": "Bajaj Housing Finance shares have plunged nearly 10% in five days, sliding toward their IPO price as a large promoter stake sale spooked investors. The stock is down 35% from its December peak despite solid financial performance, raising concerns of further supply pressure.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-housing-finance-shares-slide-10-in-5-days-whats-spooking-investors/articleshow/125762240.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:54:37 +0530",
+    "entities": [
+      {
+        "entity": "Bajaj Finance",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "10%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "5 days",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "nearly 10%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "five days",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "35%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "December",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Jayesh Mehta flags relentless FPI outflows as key driver of rupee weakness",
+    "description": "The Indian rupee is facing pressure from significant foreign portfolio outflows. Other factors like IPOs and rising gold imports are also increasing dollar demand. The Reserve Bank of India is managing the currency's movement, acting as a speed breaker. Global rate shifts are influencing corporate borrowing. The rupee's future depends on global flows and external factors.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/jayesh-mehta-flags-relentless-fpi-outflows-as-key-driver-of-rupee-weakness/articleshow/125762129.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:52:39 +0530",
+    "entities": [
+      {
+        "entity": "Jayesh Mehta",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "NephroPlus' Rs 871-cr IPO to open on Dec 10; sets price band at Rs 438-460/share",
+    "description": "Dialysis services provider Nephrocare Health Services Ltd, known for its brand NephroPlus, on Thursday announced a price band of Rs 438-460 per share for its upcoming Initial Public Offering (IPO), valuing the company at over Rs 4,600 crore.",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nephroplus-rs-871-cr-ipo-to-open-on-dec-10-sets-price-band-at-rs-438-460/share/articleshow/125762105.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:46:31 +0530",
+    "entities": [
+      {
+        "entity": "Rs 871",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 438",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 4,600",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "NephroPlus",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Dec 10",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 438-460",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Nephrocare Health Services Ltd",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Initial Public Offering",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 4,600",
+        "type": "PRODUCT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Euro zone government bond yields edge up, await US data",
+    "description": "Euro zone government bond yields edged higher on Thursday, tracking U.S. Treasuries, as investors focused on the Federal Reserve's policy outlook ahead of key U.S. jobs data later in the day.",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-government-bond-yields-edge-up-await-us-data/articleshow/125762055.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:43:25 +0530",
+    "entities": [
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Euro",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S. Treasuries",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "the Federal Reserve's",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S.",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "later in the day",
+        "type": "TIME",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Steel cycle weak, but JSW–JFE deal strengthens balance sheet and future margins: Parag Thakkar",
+    "description": "JSW Steel’s JFE partnership is a “game changer”, says Fort Capital’s Parag Thakkar, as the deal cuts debt by ₹37,250 crore and strengthens long-term expansion plans. Thakkar also sees PSU bank corrections as strong buying opportunities, led by robust credit growth and low-cost deposits. He remains bullish on India’s economic outlook and cautious on over-heated defence stocks.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/steel-cycle-weak-but-jswjfe-deal-strengthens-balance-sheet-and-future-margins-parag-thakkar/articleshow/125761879.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:32:24 +0530",
+    "entities": [
+      {
+        "entity": "₹37,250",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "JSW",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Parag Thakkar JSW Steel’s JFE",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fort Capital’s",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Parag Thakkar",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "37,250",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Rupee under pressure, but “not a panic situation yet, says Abhishek Goenka",
+    "description": "The Indian rupee's slide towards 90 has sparked market speculation, with experts suggesting it's seeking equilibrium due to unfavorable current and capital accounts. While short-term dips to 90.5-91 are possible, fundamentals point to a medium-term recovery towards 88, indicating potential undervaluation.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-under-pressure-but-not-a-panic-situation-yet-says-abhishek-goenka/articleshow/125761592.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 13:20:36 +0530",
+    "entities": [
+      {
+        "entity": "Abhishek Goenka",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "90",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "90.5-91",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "88",
+        "type": "CARDINAL",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Meesho GMP hints at 45% listing pop, issue sees over 3 times subscription on Day 2. Should you bid?",
+    "description": "Meesho’s ₹5,421 crore IPO has seen strong demand, subscribed over 3 times by Day 2, led by robust retail participation. Grey market trends point to a potential 40% listing premium, boosting expectations for one of the year’s most anticipated market debuts.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-gmp-hints-at-45-listing-pop-issue-sees-over-3-times-subscription-on-day-2-should-you-bid/articleshow/125760090.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:59:13 +0530",
+    "entities": [
+      {
+        "entity": "₹5,421",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Meesho GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "45%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "3",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Day 2",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Meesho’s",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "40%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "one",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "year",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Global markets brace for Central Bank signals as Fed rate cut bets strengthen",
+    "description": "Markets anticipate a US Federal Reserve rate cut next week, with equities and bonds showing enthusiasm. Gold and oil are seen as attractive investments due to supportive fundamentals and global economic momentum. Currency movements, particularly the yen and rupee, will significantly influence equity market performance, with stability crucial for new highs.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/global-markets-brace-for-central-bank-signals-as-fed-rate-cut-bets-strengthen/articleshow/125759725.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:50:58 +0530",
+    "entities": [
+      {
+        "entity": "Central Bank",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "US Federal Reserve",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "next week",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Bond investors voice unease over potential Hassett-led rate cuts",
+    "description": "Bond investors have raised concerns that Kevin Hassett, a leading contender to replace Jerome Powell, may push for aggressive rate cuts aligned with President Trump’s preferences. Treasury officials were briefed by major Wall Street players, who worry Hassett could prioritise political objectives over market stability and the Fed’s inflation mandate.",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/bond-investors-voice-unease-over-potential-hassett-led-rate-cuts/articleshow/125759661.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:39:34 +0530",
+    "entities": [
+      {
+        "entity": "Hassett-led",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bond",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Kevin Hassett",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Jerome Powell",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Trump",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Treasury",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Hassett",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fed",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Japan's 30-year bond yields rise to record as auction tests demand",
+    "description": "Japanese government bonds saw record-high yields on 30-year debt, reaching 3.445%, amid plans for massive stimulus. Despite concerns over rising yields, an auction for these bonds attracted strong investor demand. Analysts suggest this reflects a belief that interest rate hikes might be nearing their peak, potentially flattening the yield curve.",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/japans-30-year-bond-yields-rise-to-record-as-auction-tests-demand/articleshow/125759483.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:31:24 +0530",
+    "entities": [
+      {
+        "entity": "Japan",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "30-year",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Japanese",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "3.445%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Brookfield India REIT lines up debut bond issue in December",
+    "description": "Brookfield India Real Estate Trust is set to launch its debut bond issue this month, aiming to raise 35 billion rupees through 3-year and 5-year bonds. The funds will support the REIT's acquisition of Ecoworld, a 48-acre office campus in Bengaluru. This move follows a trend of Indian REITs and InvITs tapping the bond market for financing.",
+    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brookfield-india-reit-lines-up-debut-bond-issue-in-december/articleshow/125759442.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:29:08 +0530",
+    "entities": [
+      {
+        "entity": "Brookfield India REIT",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Brookfield India Real Estate Trust",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "this month",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "35 billion",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "3-year",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "5-year",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "REIT",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Ecoworld",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "48-acre",
+        "type": "QUANTITY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bengaluru",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Market poised for consolidation through December as FIIs go quiet, says Sunil Subramaniam",
+    "description": "Market expert Sunil Subramaniam anticipates a quiet December for equities. He believes a significant recovery is unlikely this month, with a positive bias expected. Foreign institutional investors are booking profits and taking vacations. Domestic institutional investors are building cash. A potential RBI rate cut could offer a brief trigger.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/market-poised-for-consolidation-through-december-as-fiis-go-quiet-says-sunil-subramaniam/articleshow/125759114.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:27:43 +0530",
+    "entities": [
+      {
+        "entity": "December",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sunil Subramaniam Market",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sunil Subramaniam",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "this month",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "RBI",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "India's largest private lender sees rupee falling to 92 in absence of quick US trade deal",
+    "description": "Uncertainty surrounding a U.S.-India trade deal is driving rupee volatility, with the currency potentially falling to 92 per dollar if an agreement is delayed. The rupee has already hit an all-time low, becoming Asia's worst performer due to a widening trade gap and weak investment flows.",
+    "url": "https://economictimes.indiatimes.com/markets/forex/indias-largest-private-lender-sees-rupee-falling-to-92-in-absence-of-quick-us-trade-deal/articleshow/125759341.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:25:20 +0530",
+    "entities": [
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "92",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S.-India",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "92 per dollar",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Asia",
+        "type": "LOC",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "India bonds dip as sliding rupee, policy unease bite",
+    "description": "Indian government bonds are experiencing a downturn, with yields climbing as the rupee weakens and policy uncertainty looms. Despite robust economic growth and low inflation, traders are hesitant ahead of the central bank's decision. The Reserve Bank of India's liquidity operations are adding to market confusion, leaving investors awaiting clear signals on future rate cuts and liquidity management.",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-sliding-rupee-policy-unease-bite/articleshow/125759327.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:24:35 +0530",
+    "entities": [
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Bitcoin, Ethereum rally to two-week highs as strong Fed rate-cut expectations lift risk sentiment",
+    "description": "Bitcoin and Ethereum climbed to two-week highs as strong expectations of a Fed rate cut boosted risk sentiment. BTC hovered near $93,400 while ETH crossed $3,200. Analysts said softer U.S. data, improving liquidity and renewed ETF inflows supported the rebound, though leverage remains muted amid recent liquidation-driven caution.",
+    "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-ethereum-rally-to-two-week-highs-as-strong-fed-rate-cut-expectations-lift-risk-sentiment/articleshow/125759318.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:24:06 +0530",
+    "entities": [
+      {
+        "entity": "Bitcoin, Ethereum",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "two-week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Aditya Birla Fashion and Retail",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "93,400",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "ETH",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "3,200",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S.",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "ETF",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Gold prices hold near Rs 1.30 lakh as traders brace for a Fed rate cut. Is a breakout above Rs 1.31 lakh next?",
+    "description": "Gold hovered near Rs 1.30 lakh as traders awaited next week’s U.S. Fed meeting, with expectations of a rate cut keeping global prices firm above $4,200. Weak U.S. payroll data and a soft dollar supported bullion, while analysts said a dovish Fed could trigger a breakout above Rs 1.31 lakh.",
+    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-hold-near-rs-1-30-lakh-as-traders-brace-for-a-fed-rate-cut-is-a-breakout-above-rs-1-31-lakh-next/articleshow/125758998.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:06:31 +0530",
+    "entities": [
+      {
+        "entity": "Rs 1",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Rs 1.30",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 1.31",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "next week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S. Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "4,200",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S.",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "1.31",
+        "type": "CARDINAL",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Rupee sinks to 90.41 vs USD; economy continues to power on: Piyush Goyal",
+    "description": "",
+    "url": "https://economictimes.indiatimes.com/markets/forex/rupee-below-90-remains-in-undervalued-zone-economy-continues-to-power-on-piyush-goyal/videoshow/125758980.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:05:11 +0530",
+    "entities": [
+      {
+        "entity": "90.41",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "USD",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Piyush Goyal",
+        "type": "PERSON",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Big tech’s AI push and M&amp;A revival set to drive surge in investment-grade debt issuance in 2026",
+    "description": "Investment-grade debt issuance is set to surge in 2026 as Big Tech accelerates AI infrastructure spending and M&A activity rebounds. Top U.S. tech firms may require up to $100 billion in funding, while a swelling pipeline of corporate deals and renewed private-equity confidence is expected to further boost bond market activity.",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/big-techs-ai-push-and-ma-revival-set-to-drive-surge-in-investment-grade-debt-issuance-in-2026/articleshow/125758971.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 11:04:19 +0530",
+    "entities": [
+      {
+        "entity": "AI",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "2026",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "Big Tech",
+        "type": "LOC",
+        "source": "spacy"
+      },
+      {
+        "entity": "U.S.",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "up to $100 billion",
+        "type": "MONEY",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Corona Remedies IPO opens next week: GMP among 10 things to know before subscription",
+    "description": "Corona Remedies is launching its Rs 655 crore IPO next week. The Gujarat-based pharmaceutical firm is offering 100% of its shares. The grey market premium indicates a potential 29% upside. Investors can subscribe from December 8 to 10. The company has strong financial growth and high return ratios. Shares will list on NSE and BSE.",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/corona-remedies-ipo-opens-next-week-gmp-among-10-things-to-know-before-subscription/articleshow/125758482.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:31:03 +0530",
+    "entities": [
+      {
+        "entity": "Rs 655",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "next week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "10",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Corona Remedies",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 655",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Gujarat",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "100%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "29%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 8 to 10",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "NSE",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "BSE",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Rupee’s slide raises inflation risk, clouds rate cut hopes. What’s next for rate-sensitive sectors?",
+    "description": "The rupee’s drop past 90 per dollar has shaken markets and dragged equities lower, with rate-sensitive sectors hit hardest. Despite strong GDP growth, the currency’s near 5% depreciation this year makes it the worst performer among major EM peers and has revived inflation concerns. Analysts warn that continued weakness could limit the RBI’s scope for further rate cuts.",
+    "url": "https://economictimes.indiatimes.com/markets/forex/rupees-slide-raises-inflation-risk-clouds-rate-cut-hopes-whats-next-for-rate-sensitive-sectors/articleshow/125758416.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:28:11 +0530",
+    "entities": [
+      {
+        "entity": "5%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "this year",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "EM",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "RBI",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "PSU banks still offer tactical upside; midcaps still justified at premium, says JPMorgan’s Rajiv Batra",
+    "description": "JPMorgan’s Rajiv Batra says PSU banks remain a top tactical bet despite recent volatility, with strong credit growth, tech upgrades, and policy support set to drive re-rating. FIIs may return as India’s growth, earnings, and reforms strengthen. He expects nominal GDP to rise, supporting 13–14% earnings growth and further upside in midcaps if momentum holds.",
+    "url": "https://economictimes.indiatimes.com/markets/expert-view/psu-banks-still-offer-tactical-upside-midcaps-still-justified-at-premium-says-jpmorgans-rajiv-batra/articleshow/125758279.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:26:14 +0530",
+    "entities": [
+      {
+        "entity": "JPMorgan",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rajiv Batra JPMorgan",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rajiv Batra",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "PSU banks",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "13–14%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Trump’s Fed choice intensifies pressure on Treasury Secretary Bessent",
+    "description": "President Donald Trump is intensely focused on lowering interest rates. He has tasked Treasury Secretary Scott Bessent with finding a new Federal Reserve chair. Trump wants swift rate cuts to boost the economy. The selection process is crucial, with potential candidates signaling willingness to align with Trump's agenda. The chosen nominee faces pressure to deliver.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-fed-choice-intensifies-pressure-on-treasury-secretary-bessent/articleshow/125758364.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:25:45 +0530",
+    "entities": [
+      {
+        "entity": "Trump’s Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Treasury",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Donald Trump",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Scott Bessent",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Federal Reserve",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Trump",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Vidya Wires IPO Day 2: GMP trends, strong subscription. Should you apply?",
+    "description": "Vidya Wires IPO: In the grey market, the IPO is quoting a ₹5 premium — about 9.6% above the upper price band — suggesting a possible listing near ₹57 per share. Investor sentiment remains upbeat, though the premium has eased from 11.54% earlier.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/vidya-wires-ipo-day-2-gmp-trends-strong-subscription-should-you-apply/articleshow/125758308.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:22:16 +0530",
+    "entities": [
+      {
+        "entity": "₹5",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹57",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Vidya Wires",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "5",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "about 9.6%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "57",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "11.54%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Aequs IPO Day 2: GMP suggest 37% listing upside, heavy demand. Is it worth applying?",
+    "description": "Aequs’ IPO saw strong Day 1 demand, getting subscribed 3.42 times, with retail bids soaring past 11 times. The grey market premium suggests a 37% listing upside, indicating a possible debut near Rs 170. Despite recent losses, analysts cite strong aerospace integration, high entry barriers, and attractive valuations as key positives.",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/aequs-ipo-day-2-gmp-suggest-37-listing-upside-heavy-demand-is-it-worth-applying/articleshow/125758265.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:19:32 +0530",
+    "entities": [
+      {
+        "entity": "Rs 170",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "2",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "37%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "3.42",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "11",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Rs 170",
+        "type": "PRODUCT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Flight disruptions drag IndiGo 3% lower, stock slips for 5th straight session",
+    "description": "IndiGo operator InterGlobe Aviation’s shares fell sharply after widespread flight disruptions crippled operations for two days, prompting a public apology from the airline. A mix of tech glitches, winter schedule changes, adverse weather, congestion, and new crew rostering rules hit punctuality, leading IndiGo to recalibrate schedules to stabilise operations over the next 48 hours.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/flight-disruptions-ground-indigo-shares-as-niftys-worst-intraday-performer-slides-3-slips-for-5th-session/articleshow/125758160.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 10:13:01 +0530",
+    "entities": [
+      {
+        "entity": "3%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "5th",
+        "type": "ORDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "InterGlobe Aviation’s",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "two days",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "winter",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "the next 48 hours",
+        "type": "TIME",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "15 IPOs to track in 8 days. GMPs hint at up to 41% listing gains for investors",
+    "description": "A surge of 15 IPOs is capturing investor attention, with some already seeing strong subscription. Grey market premiums indicate potential listing gains of up to 41% for select issues, driven by brand strength and sector momentum. While some offerings show robust early interest, others are awaiting clearer market signals.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/15-ipos-to-track-in-8-days-gmps-hint-at-up-to-41-listing-gains-for-investors/slideshow/125758114.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:56:25 +0530",
+    "entities": [
+      {
+        "entity": "15",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "8 days",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "up to 41%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "The way it's going, will Rupee breach the 100 mark sooner or later?",
+    "description": "India's rupee has fallen to a record low against the dollar, raising concerns about a potential slide to 100. This depreciation is driven by weaker exports, foreign outflows, and global dollar strength. While policymakers remain measured, analysts suggest a breach of 100 is possible under specific negative scenarios, though not the base case.",
+    "url": "https://economictimes.indiatimes.com/markets/forex/the-way-its-going-will-rupee-breach-the-100-mark-sooner-or-later/articleshow/125757713.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:48:01 +0530",
+    "entities": [
+      {
+        "entity": "100",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Pine Labs shares in focus as fintech posts first quarterly profit since listing",
+    "description": "Pine Labs shares: Pine Labs returned to profit in Q2FY26 with ₹6 crore in net earnings — its strongest performance yet and a turnaround from last year’s loss — alongside a 25% sequential growth in profit after tax.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-in-focus-as-fintech-posts-first-quarterly-profit-since-listing/articleshow/125757601.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:36:43 +0530",
+    "entities": [
+      {
+        "entity": "₹6",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Pine Labs",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "first",
+        "type": "ORDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "quarterly",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Pine Labs",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Q2FY26",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "6",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "last year’s",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "25%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Vodafone Idea among five stocks flashing bullish signals",
+    "description": "Represented by a long white (or green) candlestick with no upper shadow and a small or nonexistent lower shadow, it signals strong buying pressure throughout the session.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-five-stocks-flashing-bullish-signals/slideshow/125757568.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:31:40 +0530",
+    "entities": [
+      {
+        "entity": "Vodafone Idea",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "five",
+        "type": "CARDINAL",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Sensex slips 100 pts, Nifty below 26,000 amid heavy FPI selling, weak rupee",
+    "description": "Indian stocks opened lower on Thursday, extending a losing streak to a fifth session as foreign investors resumed heavy selling and the rupee hit a fresh record low. Investors are exercising caution ahead of the Reserve Bank of India's policy decision and guidance due Friday. The Sensex and Nifty both slipped in early trading.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-slips-100-pts-nifty-below-26000-amid-heavy-fpi-selling-weak-rupee/articleshow/125757528.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:30:20 +0530",
+    "entities": [
+      {
+        "entity": "100",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Nifty",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "26,000",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "FPI",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "fifth",
+        "type": "ORDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Friday",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "ICICI Bank, Swiggy and six others show bullish RSI upswing",
+    "description": "“RSI trending up” indicates that the Relative Strength Index (RSI) is rising, suggesting strengthening momentum in the stock’s price.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-swiggy-and-six-others-show-bullish-rsi-upswing/slideshow/125757529.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:27:02 +0530",
+    "entities": [
+      {
+        "entity": "ICICI Bank",
+        "type": "ORG",
+        "source": "company_match"
+      },
+      {
+        "entity": "Swiggy",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "six",
+        "type": "CARDINAL",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Foreigners net buyers of Japanese stocks as bets of Fed rate cut ease tech valuation worries",
+    "description": "Foreign investors showed strong interest in Japanese stocks and bonds. They purchased technology and banking shares, anticipating Federal Reserve rate cuts and potential Bank of Japan rate hikes. This influx boosted Japanese equities, which are expected to see robust profit growth next year. Japanese investors, meanwhile, bought foreign stocks but sold foreign bonds.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/foreigners-net-buyers-of-japanese-stocks-as-bets-of-fed-rate-cut-ease-tech-valuation-worries/articleshow/125757374.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:18:19 +0530",
+    "entities": [
+      {
+        "entity": "Japanese",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Federal Reserve",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bank of Japan",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "next year",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Biocon shares in focus ahead of board meeting, fundraising plans",
+    "description": "Biocon shares: Biocon’s Board will meet on Saturday, December 6, 2025, to decide on key proposals that could shape its growth and shareholder value. A major agenda item is a potential investment in its unlisted arm, Biocon Biologics either through cash or preferential allotment to boost its stake and support long-term expansion.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-in-focus-ahead-of-board-meeting-fundraising-plans/articleshow/125757360.cms",
+    "source": "economictimes.indiatimes.com",
+    "published": "Thu, 04 Dec 2025 09:17:34 +0530",
+    "entities": [
+      {
+        "entity": "Biocon",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Biocon’s Board",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Saturday, December 6, 2025",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Biocon Biologics",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Corona Remedies IPO: From key dates to offer details; here are 10 things to know from RHP",
+    "description": "Corona Remedies IPO: Pharmaceutical firm, Corona Remedies, is set to open its public issue for bidding on 8 December 2025 with aims to raise funds from the stock market through a OFS component. Here are 10 key things you should know.&nbsp;",
+    "url": "https://www.livemint.com/market/ipo/corona-remedies-ipo-from-key-dates-to-offer-details-here-are-10-things-to-know-from-rhp-11764854277344.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 20:12:42 +0530",
+    "entities": [
+      {
+        "entity": "10",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "RHP Corona Remedies IPO",
+        "type": "LOC",
+        "source": "spacy"
+      },
+      {
+        "entity": "Corona Remedies",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "8 December 2025",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "OFS",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "know.&amp;nbsp",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Sovereign Gold Bond scheme 2017-18 delivers over 41% CAGR to investors; redemption date today — check details",
+    "description": "Sovereign Gold Bonds issued under SGB 2017-18 Series-X are repayable on the expiration of eight years from the date of issue, i.e., 4 December 2017.",
+    "url": "https://www.livemint.com/market/sgb-scheme-2017-18-delivers-over-41-6-cagr-return-to-investors-redemption-date-today-rbi-11764852230478.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 19:50:20 +0530",
+    "entities": [
+      {
+        "entity": "Sovereign Gold Bond",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "2017-18",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "over 41%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "today",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sovereign Gold Bonds",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "SGB",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "eight years",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "4 December 2017",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Speb Adhesives IPO allotment date likely today. GMP, steps to check share allotment status online on NSE, MUFG Intime",
+    "description": "Speb Adhesives IPO allotment is expected today, December 04. The IPO, worth ₹33.73 crore, was oversubscribed 2.34 times. Retail investors can check their allotment status on NSE's website or through MUFG Intime India. Refunds for unsuccessful applicants will begin on December 05, 2025.",
+    "url": "https://www.livemint.com/market/stock-market-news/speb-adhesives-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-on-nse-mufg-intime-11764856573099.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 19:36:50 +0530",
+    "entities": [
+      {
+        "entity": "₹33",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "today",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "NSE",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "today, December 04",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹33.73",
+        "type": "LAW",
+        "source": "spacy"
+      },
+      {
+        "entity": "2.34",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "MUFG Intime",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 05, 2025",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "IPO 2025: Out of  ₹1.21 lakh crore raised through 81 mainboard issues in 10 months, promoters galloped  ₹39,700 crore",
+    "description": "The Indian IPO market remained robust in 2025, with 81 issues raising ₹1,21,042 crore. Strong demand from retail and foreign investors contributed to this surge, even as market volatility persisted, positioning India as a top global player.",
+    "url": "https://www.livemint.com/market/stock-market-news/ipo-2025-out-of-rs-1-21-lakh-crore-raised-through-81-mainboard-issues-in-10-months-promoters-galloped-rs-39-700-crore-11764839087188.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 19:20:05 +0530",
+    "entities": [
+      {
+        "entity": "₹1",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹39,700",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹1,21,042",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "1.21",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "81",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "10 months",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "39,700",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "2025",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "₹",
+        "type": "FAC",
+        "source": "spacy"
+      },
+      {
+        "entity": "1,21,042",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Markets have turned, 2026 will be ‘very exciting’ for Indian equities, says Ridham Desai",
+    "description": "While the world has been in a ferocious bull market, India has been the outlier. But the country's relative performance has already turned in November, says Morgan Stanley managing director Ridham Desai at Hindustan Times Leadership Summit 2025.",
+    "url": "https://www.livemint.com/market/stock-market-news/ridham-desai-indian-stock-market-has-turned-2026-very-exciting-11764842318880.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 18:43:56 +0530",
+    "entities": [
+      {
+        "entity": "2026",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Ridham Desai",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "November",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Morgan Stanley",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Hindustan Times Leadership Summit",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "2025",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Multibagger small-cap stock Diamond Power to be in focus on Friday on securing  ₹747 cr order from Adani Green Energy",
+    "description": "Diamond Power Infrastructure shares are expected to gain investor interest on Friday after winning an order from Adani Green Energy for cable supply worth ₹747.64 crore. The company has a market cap of ₹7,538 crore and has shown substantial growth in the last two years.",
+    "url": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-diamond-power-to-be-in-focus-on-friday-on-securing-rs-747-cr-order-from-adani-green-energy-11764853155664.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 18:43:08 +0530",
+    "entities": [
+      {
+        "entity": "₹747",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹7,538",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Diamond Power",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Friday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "747",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Adani Green Energy",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Diamond Power Infrastructure",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹747.64",
+        "type": "FAC",
+        "source": "spacy"
+      },
+      {
+        "entity": "7,538",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "the last two years",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Crude oil prices extend gains; Brent hits $63, WTI nears $60 after Ukraine strike on Russian oil pipeline",
+    "description": "Crude prices rose on December 4, with Brent crude at $63 and WTI at $59.45, following Ukrainian attacks on Russian oil supplies. Despite gains, weak demand and rising US inventories capped prices, while Fitch Ratings revised oil price forecasts downward due to oversupply concerns.",
+    "url": "https://www.livemint.com/market/stock-market-news/crude-oil-prices-extend-gains-brent-hits-63-wti-nears-60-after-ukraine-strike-on-russian-oil-pipeline-11764849811747.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 17:57:46 +0530",
+    "entities": [
+      {
+        "entity": "Brent",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "63",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "60",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Ukraine",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Russian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 4",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "59.45",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Ukrainian",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Fitch Ratings",
+        "type": "PERSON",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Indian stock market poised for a rebound in 2026; slowdown in global growth biggest risk for India: Ridham Desai",
+    "description": "Ridham Desai of Morgan Stanley India forecasts a potential rebound for the Indian stock market in 2026, driven by strong macro factors and earnings growth. However, he warns that a global slowdown remains the biggest risk.&nbsp;",
+    "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-looks-poised-for-a-rebound-in-2026-slowdown-in-global-growth-biggest-risk-for-india-ridham-desai-11764848685677.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 17:36:57 +0530",
+    "entities": [
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "2026",
+        "type": "MONEY",
+        "source": "corrected_DATE"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Ridham Desai",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Morgan Stanley India",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "AI has pushed the stock market to record highs. Why the economy could drag it down.",
+    "description": "Stocks don’t seem know where to head, thanks to mixed economic data.",
+    "url": "https://www.livemint.com/market/stock-market-news/ai-has-pushed-the-stock-market-to-record-highs-why-the-economy-could-drag-it-down-11764846829814.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 17:07:49 +0530",
+    "entities": [
+      {
+        "entity": "AI",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Top Gainers &amp; Losers on Dec 04: Hindustan Copper, India Cements, Petronet LNG, Coforge, HFCL among top gainers",
+    "description": "India's equity benchmarks closed higher on December 4, breaking a four-day losing streak, supported by tech, realty, and FMCG sectors. The Nifty 50 rose 0.18% to 26,033, while the Sensex gained 0.07% to 85,164. Caution persisted ahead of the RBI policy decision.",
+    "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-dec-04-hindustan-copper-india-cements-petronet-coforge-hfcl-among-top-gainers-11764842573225.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 15:44:27 +0530",
+    "entities": [
+      {
+        "entity": "Gainers &",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Losers",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Dec 04",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Hindustan Copper",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "India Cements",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Coforge",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 4",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "four-day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "FMCG",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Nifty",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "0.18%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "26,033",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sensex",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "0.07%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "85,164",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "RBI",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Sensex, Nifty 50 snap 4-day losing streak; mid, small-caps underperform— 10 key highlights from Indian stock market",
+    "description": "The Sensex rose 159 points, or 0.19%, to close at 85,265.32, while the Nifty 50 ended at 26,033.75, up 48 points, or 0.18%. The BSE Midcap index fell 0.19% while the Smallcap index dropped 0.32%.",
+    "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-snap-4-day-losing-streak-mid-small-caps-underperform-10-key-highlights-from-indian-stock-market-11764842213096.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 15:35:27 +0530",
+    "entities": [
+      {
+        "entity": "4-day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "10",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Sensex",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "159",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "0.19%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "85,265.32",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Nifty",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "26,033.75",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "48",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "0.18%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "BSE Midcap",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Smallcap",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "0.32%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "350% rally in five years! Brewery stock declares fundraise, acquisition of subsidiary company at  ₹55 crore",
+    "description": "On Thursday, brewery stock was trading marginally up at ₹32.50 on NSE. The stock has been under pressure lately as it has descended by over 18.10% in the last month and 22% in six months.",
+    "url": "https://www.livemint.com/market/stock-market-news/350-rally-in-five-years-brewery-stock-declares-fundraise-acquisition-of-subsidiary-company-at-55-crore-11764839903216.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 15:30:08 +0530",
+    "entities": [
+      {
+        "entity": "₹55",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹32",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "350%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "five years",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "55",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "32.50",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "NSE",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "over 18.10%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "the last month",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "22%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "six months",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "RBI MPC meeting: Will a 25 bps rate cut spark a rally in the Indian stock market?",
+    "description": "RBI MPC meeting: As the Reserve Bank of India considers a potential rate cut, experts suggest that retail liquidity constraints and market sentiment may dampen any positive reactions.",
+    "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-will-a-25-bps-rate-cut-spark-a-rally-in-the-indian-stock-market-11764839171194.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 15:22:06 +0530",
+    "entities": [
+      {
+        "entity": "RBI",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "25",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "HDFC Bank",
+        "type": "ORG",
+        "source": "company_match"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "RBI Policy: Will MPC cut repo rate amid rising expectations of a US Fed rate cut?",
+    "description": "The RBI's Monetary Policy Committee is reviewing rates from December 3-5, with a decision on rate cuts expected tomorrow. Amid low inflation and strong growth, attention is on whether the RBI will take cues from a widely-expected US Fed rate cut next week.",
+    "url": "https://www.livemint.com/market/stock-market-news/rbi-policy-will-mpc-cut-repo-rate-amid-rising-expectations-of-a-us-fed-rate-cut-11764836348750.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 15:14:41 +0530",
+    "entities": [
+      {
+        "entity": "RBI",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "MPC",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "US Fed",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Monetary Policy Committee",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 3-5",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "tomorrow",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "next week",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "ICICI Prudential Mutual Fund raises stake in LIC Housing Finance to 5.22%",
+    "description": "LIC Housing Finance share price has fallen 5% in one month and has declined 9% in six months. The stock has dropped 14% over the past one year, while it has risen 39% in three years. LIC Housing Finance share price has rallied 57% in the past five years.",
+    "url": "https://www.livemint.com/market/stock-market-news/icici-prudential-mutual-fund-raises-stake-in-lic-housing-finance-to-522-11764839487175.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 14:51:24 +0530",
+    "entities": [
+      {
+        "entity": "Prudential Mutual Fund",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "LIC Housing Finance",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "5.22%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "5%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "one month",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "9%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "six months",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "14%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "the past one year",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "39%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "three years",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "57%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "the past five years",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Will AIFs get to certify accredited investors? The decision is close",
+    "description": "Under Sebi rules, only CDSL Ventures Ltd and NSDL Data Management Ltd can certify accredited investors, making it an arduous process for investors.",
+    "url": "https://www.livemint.com/market/sebi-accredited-investors-alternative-investment-funds-aif-kyc-registration-11764833768114.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 14:48:28 +0530",
+    "entities": [
+      {
+        "entity": "CDSL Ventures Ltd",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "NSDL Data Management Ltd",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "NSE SME stock jumps after this new product update. Check details",
+    "description": "The small-cap stock has been under pressure lately as it has declined 2% in a month and 44% in last one year.",
+    "url": "https://www.livemint.com/market/stock-market-news/nse-sme-stock-jumps-after-this-new-product-update-check-details-11764838334140.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 14:42:08 +0530",
+    "entities": [
+      {
+        "entity": "SME",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "2%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "a month",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "44%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "last one year",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Dr Reddy’s pins hopes on semaglutide, but timely approvals hold the key",
+    "description": "The company’s exports plan faces delays in approvals, with the pharmaceutical drugs directorate of Canada issuing it a notice of non-compliance in response to its application.",
+    "url": "https://www.livemint.com/market/mark-to-market/dr-reddys-semaglutide-semaglutide-india-11764833246078.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 14:25:21 +0530",
+    "entities": [
+      {
+        "entity": "Reddy",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Canada",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "India-US Trade Deal: Coforge, Gokaldas Exports, Balkrishna Industries, among seven stocks seen as top beneficiaries",
+    "description": "India-US Trade Deal: Pankaj Pandey of ICICI Securities believes that the expected rollback of US tariffs to a competitive level will put an end to business uncertainty, opening up trade between the two nations and instantly unlocking the delayed volumes",
+    "url": "https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-coforge-gokaldas-exports-balkrishna-industries-among-seven-stocks-seen-as-top-beneficiaries-11764836527260.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 14:06:37 +0530",
+    "entities": [
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Gokaldas Exports",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Balkrishna Industries",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "seven",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "India-US Trade",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Pankaj Pandey",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Tejas Networks",
+        "type": "ORG",
+        "source": "company_match"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "RBI MPC meeting: Check date, time, expectations, other details about upcoming announcement?",
+    "description": "The RBI’s December meeting, set for this week, is in sharp market focus, with many anticipating that the central bank will continue moving gradually toward a more dovish policy stance.",
+    "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-check-date-time-expectations-other-details-about-upcoming-announcement-11764832262919.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 13:24:35 +0530",
+    "entities": [
+      {
+        "entity": "RBI",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "this week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "dovish",
+        "type": "NORP",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "AMFI rejig countdown: IPO stars prepare to topple the titans",
+    "description": "Amfi’s January stock recategorization—expected to be announced in the first week of January and effective 1 February 2026—could see a new guard take over the large-cap roster.",
+    "url": "https://www.livemint.com/market/stock-market-news/amfi-market-cap-reshuffle-january-2026-ipo-large-cap-stocks-india-11764825715580.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 13:10:34 +0530",
+    "entities": [
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Amfi",
+        "type": "PRODUCT",
+        "source": "spacy"
+      },
+      {
+        "entity": "January",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "the first week of January",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "1 February 2026",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Luxury Time IPO sails through on first day amid retail, NII demand; check GMP, issue details, more",
+    "description": "Luxury Time IPO launched on December 4, with a price band of ₹78 to ₹82. The offering includes fresh issuance and an offer for sale, aiming to raise funds for new outlets and working capital. Subscription status shows strong demand among retail and institutional investors.",
+    "url": "https://www.livemint.com/market/ipo/luxury-time-ipo-gmp-luxury-time-ipo-gmp-today-luxury-time-ipo-subscription-status-luxury-time-ipo-luxury-time-ipo-11764831649269.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:56:18 +0530",
+    "entities": [
+      {
+        "entity": "₹78",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹82",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Luxury Time IPO",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "first day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "NII",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 4",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "82",
+        "type": "MONEY",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Clear Secured Services IPO allotment date likely today. GMP, steps to check share allotment status online for SME IPO",
+    "description": "Clear Secured Services IPO allotment date is likely today, December 4. Investors can check Clear Secured Services IPO allotment status online through the websites of NSE and the IPO registrar. Bigshare Services is the Clear Secured Services IPO registrar.",
+    "url": "https://www.livemint.com/market/ipo/clear-secured-services-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-for-sme-ipo-11764831798616.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:41:28 +0530",
+    "entities": [
+      {
+        "entity": "Clear Secured Services",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "today",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "SME IPO Clear Secured Services",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "today, December 4",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "NSE",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Bigshare Services",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "the Clear Secured Services",
+        "type": "ORG",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Coromandel’s aggressive capex could reduce earnings volatility. Can it deliver?",
+    "description": "Coromandel International is doubling down on fertilizers and crop protection with a ₹4,000–5,000 crore capex plan aimed at lifting margins, stabilizing earnings and reducing dependence on volatile raw materials.",
+    "url": "https://www.livemint.com/market/mark-to-market/coromandel-international-stock-share-price-fertilizer-industry-11764825818887.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:33:25 +0530",
+    "entities": [
+      {
+        "entity": "₹4,000",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Coromandel",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Coromandel International",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "4,000–5,000",
+        "type": "MONEY",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Mid-cap banks are back in favour. But only a few will ride the next rally.",
+    "description": "Mid-cap banks are emerging as prime beneficiaries of the next credit upcycle, backed by stronger MSME and retail demand. But the real upside may be confined to a handful",
+    "url": "https://www.livemint.com/market/stock-market-news/midcap-bank-rally-msme-loan-growth-banking-sector-2026-11764817844919.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:27:56 +0530",
+    "entities": []
+  },
+  {
+    "id": 91,
+    "title": "Ravelcare IPO allotment likely today: GMP, steps to check SME IPO allotment status on BSE, registrar website",
+    "description": "Investors can check Ravelcare IPO share allotment status online via the registrar's site or BSE. The IPO, which opened for subscription on December 1, was oversubscribed 438 times. Shares are expected to list on December 8 with a strong premium indicated.",
+    "url": "https://www.livemint.com/market/ipo/ravelcare-ipo-allotment-likely-today-gmp-steps-to-check-sme-ipo-allotment-status-on-bse-registrar-website-11764827510799.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:23:15 +0530",
+    "entities": [
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "today",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "SME",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "BSE",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 1",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "438",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 8",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Putin India visit: Experts see these 3 factors dominating India-Russia Annual Summit, 2 PSU stocks to benefit",
+    "description": "Putin's India visit: Russian President Vladimir Putin is visiting India for the 23rd India-Russia Annual Summit, focusing on enhancing trade and partnership&nbsp;",
+    "url": "https://www.livemint.com/market/stock-market-news/putin-india-visit-experts-see-these-3-factors-to-dominate-india-russia-annual-summit-2-psu-stocks-hal-gmdc-to-benefit-11764829806292.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:22:20 +0530",
+    "entities": [
+      {
+        "entity": "Putin India",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "3",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "India",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "2",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Putin",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "Russian",
+        "type": "NORP",
+        "source": "spacy"
+      },
+      {
+        "entity": "Vladimir Putin",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "23rd",
+        "type": "ORDINAL",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "450% rise in YTD! Multibagger small-cap stock hits upper circuit after this business update",
+    "description": "Spice Lounge Food Works share price has given multibagger returns by surging over 137.62% in just six months, 454.29% in terms of year-to-date (YTD) and 896% in the last one year.",
+    "url": "https://www.livemint.com/market/stock-market-news/450-rise-in-ytd-multibagger-small-cap-stock-spice-lounge-food-works-hits-upper-circuit-after-this-business-update-11764826787199.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:05:54 +0530",
+    "entities": [
+      {
+        "entity": "450%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "YTD",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Spice Lounge Food Works",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "137.62%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "just six months",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "454.29%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "year-to-date",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "896%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "the last one year",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Why did Hindustan Copper, SAIL and other metal stocks gain up to 6.6%? Key reasons explained",
+    "description": "Hindustan Copper jumped 6.6% to the day’s high of ₹361.80 apiece, while Vedanta, Adani Enterprises, National Aluminium, SAIL, NMDC, and Hindalco Industries also traded with gains in the range of 0.50% to 1.3%.",
+    "url": "https://www.livemint.com/market/stock-market-news/why-did-hindustan-copper-sail-and-other-metal-stocks-gain-up-to-6-6-key-reasons-explained-11764829008873.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:05:39 +0530",
+    "entities": [
+      {
+        "entity": "₹361",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Hindustan Copper",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "SAIL",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "6.6%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "₹",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "361.80",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Vedanta",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Adani Enterprises",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "National Aluminium",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "SAIL",
+        "type": "GPE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Hindalco Industries",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "0.50% to 1.3%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Solar, EV stock Servotech Power Systems rises over 9%. Do you own?",
+    "description": "Servotech Renewable Power System stock rose over 9% during Thursday's trading, despite hitting a 52-week low. The company reported an 88.24% drop in net profit and announced a ₹74 crore rooftop solar initiative under PM Surya Ghar: Muft Bijli Yojana.",
+    "url": "https://www.livemint.com/market/stock-market-news/solar-ev-stock-servotech-power-systems-rises-over-9-do-you-own-11764826901290.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 12:02:01 +0530",
+    "entities": [
+      {
+        "entity": "₹74",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "EV",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Servotech Power Systems",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "over 9%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Servotech Renewable Power System",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "Thursday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "52-week",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "88.24%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "74",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "Surya Ghar",
+        "type": "WORK_OF_ART",
+        "source": "spacy"
+      },
+      {
+        "entity": "Muft Bijli Yojana",
+        "type": "PERSON",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Hindustan Unilever demerger record date tomorrow. Last day to buy shares stock of combined entity",
+    "description": "HUL demerger record date is December 5, Friday. Hence, today, December 4, is the last trading day for HUL as a combined entity. Shareholders holding HUL shares as of the record date will be entitled to receive equity shares of the demerged entity.",
+    "url": "https://www.livemint.com/market/stock-market-news/hindustan-unilever-demerger-record-date-tomorrow-hul-demerger-last-day-to-buy-shares-stock-of-combined-entity-11764827030546.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 11:22:46 +0530",
+    "entities": [
+      {
+        "entity": "Hindustan Unilever",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "tomorrow",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "Last day",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "HUL",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 5, Friday",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "today, December 4",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "the last trading day",
+        "type": "DATE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Indias largest private lender sees rupee falling to 92 in absence of quick US trade deal",
+    "description": "INDIA-MARKETS/RUPEE (PIX):India's largest private lender sees rupee falling to 92 in absence of quick US trade deal",
+    "url": "https://www.livemint.com/market/stock-market-news/indias-largest-private-lender-sees-rupee-falling-to-92-in-absence-of-quick-us-trade-deal-11764827104233.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 11:15:03 +0530",
+    "entities": [
+      {
+        "entity": "92",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "US",
+        "type": "GPE",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Astron Multigrain IPO allotment in focus: GMP, steps to check share allotment status online for SME IPO",
+    "description": "Astron Multigrain's SME stock is expected to see a muted listing on December 8, as the grey market premium is nil. The IPO, which had a lukewarm response, was subscribed 1.22 times, with retail oversubscribed 1.94 times.",
+    "url": "https://www.livemint.com/market/ipo/astron-multigrain-ipo-allotment-in-focus-gmp-steps-to-check-share-allotment-status-online-for-sme-ipo-11764824402372.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 11:10:41 +0530",
+    "entities": [
+      {
+        "entity": "IPO",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "GMP",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "SME",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "December 8",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "1.22",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "1.94",
+        "type": "CARDINAL",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Pine Labs shares rose over 2% after Q2 results. Should you buy, sell or hold?",
+    "description": "Pine Labs shares gained 2.5% after announcing a ₹6 crore profit for Q2 FY26, a recovery from last year's loss. Revenue rose 18% to ₹650 crore, with EBITDA up 62%. The stock remains under pressure from competitive market conditions.",
+    "url": "https://www.livemint.com/market/stock-market-news/pine-labs-shares-rose-over-2-after-q2-results-should-you-buy-sell-or-hold-11764824740676.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 11:10:29 +0530",
+    "entities": [
+      {
+        "entity": "₹6",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "₹650",
+        "type": "MONEY",
+        "source": "regex_money"
+      },
+      {
+        "entity": "Pine Labs",
+        "type": "ORG",
+        "source": "spacy"
+      },
+      {
+        "entity": "over 2%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "Q2",
+        "type": "CARDINAL",
+        "source": "spacy"
+      },
+      {
+        "entity": "Pine Labs",
+        "type": "PERSON",
+        "source": "spacy"
+      },
+      {
+        "entity": "2.5%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "last year's",
+        "type": "DATE",
+        "source": "spacy"
+      },
+      {
+        "entity": "18%",
+        "type": "PERCENT",
+        "source": "spacy"
+      },
+      {
+        "entity": "650",
+        "type": "MONEY",
+        "source": "spacy"
+      },
+      {
+        "entity": "62%",
+        "type": "PERCENT",
+        "source": "spacy"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "IT gains push Indian benchmark shares higher; rupee hits all-time low",
+    "description": "INDIA-STOCKS/:INDIA STOCKS-IT gains push Indian benchmark shares higher; rupee hits all-time low",
+    "url": "https://www.livemint.com/market/stock-market-news/it-gains-push-indian-benchmark-shares-higher-rupee-hits-all-time-low-11764825123474.html",
+    "source": "www.livemint.com",
+    "published": "Thu, 04 Dec 2025 10:42:03 +0530",
+    "entities": [
+      {
+        "entity": "Indian",
+        "type": "NORP",
+        "source": "spacy"
+      }
+    ]
+  }
+]
