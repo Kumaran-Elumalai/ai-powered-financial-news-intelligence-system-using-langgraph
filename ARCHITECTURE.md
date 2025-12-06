@@ -170,8 +170,7 @@ Files located in `/evaluation/` measure:
 Results stored in `evaluation_results.json`.
 
 9. 🗺️ High-Level Architecture Diagram
-    <img width="1652" height="895" alt="image" src="https://github.com/user-attachments/assets/f4283c84-8296-4198-9ba4-e99006e0d4ef" />
-
+<img width="1677" height="621" alt="image" src="https://github.com/user-attachments/assets/5598ed66-bef5-448f-b2aa-d7e4fe81fe14" />
 
 
   
