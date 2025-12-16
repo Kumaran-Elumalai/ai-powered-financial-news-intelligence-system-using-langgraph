@@ -3,7 +3,7 @@
 ### Using Multi-Agent Architecture + LangGraph + Vector Search + Local LLMs
  
 ## 🚀 Overview  
-
+ 
 This project implements a fully functional AI-powered financial news intelligence system designed for traders, analysts, and investment platforms.
 
 It automatically:
