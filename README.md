@@ -2,7 +2,7 @@
 # 📈 AI-Powered Financial News Intelligence System
 ### Using Multi-Agent Architecture + LangGraph + Vector Search + Local LLMs
  
-## 🚀 Overview 
+## 🚀 Overview  
 
 This project implements a fully functional AI-powered financial news intelligence system designed for traders, analysts, and investment platforms.
 
